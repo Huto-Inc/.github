@@ -1,2 +1,2 @@
-## .github :otto_cat:
+## GitHub
 Noting here
